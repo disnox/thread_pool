@@ -51,5 +51,5 @@ xx@xx:xxx/project$ ./a.out
 ├── kernel_list.h		# 内核链表
 ├── main.c       		# 主函数文件
 ├── thread_pool.c		# 内核链表构建线程池函数文件
-└──thread_pool.h		# 内核链表构建线程池函数头文件
+└── thread_pool.h		# 内核链表构建线程池函数头文件
 ```
