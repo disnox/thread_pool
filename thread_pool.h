@@ -35,7 +35,7 @@ struct thread_pool {
 	unsigned active_threads;	// 线程队列中的线程数量
 	unsigned waiting_tasks;		// 任务链队列中等待的任务个数
 
-	bool shutdown;
+	bool shutdown;              // 线程池销毁标记
 };
 
 // 线程池中的任务
